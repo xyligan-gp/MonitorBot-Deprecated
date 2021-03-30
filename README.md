@@ -1,4 +1,4 @@
-# Monitoring Bot
+# Monitor Bot [2020] - Deprecated
 This repository belongs to Monitor Bot
 If you read this, then you are very lucky.
 You are in the Monitor Bot documentation.
@@ -29,5 +29,4 @@ Monitoring makes your project work as long as possible and not be inactive. It w
 
 # Useful links
 - [Discord Server](https://discord.gg/XtMbhE8)
-- [Official Site](http://monitor-project.worldhosts.ru/)
 - [Official Bot](https://discord.com/api/oauth2/authorize?client_id=716344535260856392&permissions=2048&scope=bot)
